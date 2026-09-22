@@ -8,9 +8,7 @@ function App() {
         {" "}
         Hello Tailwind CSS
       </h1>
-    
-      
-      <ALLRouter/> 
+      <ALLRouter />
     </div>
   );
 }
