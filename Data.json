@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "Rollno": "35",
+      "Name": "Gangireddy",
+      "branch": "",
+      "Email": "AAAAAAA@.com",
+      "phone": "98473423745",
+      "collegeName": "GIT",
+      "image": "blob:http://localhost:5173/e19c9212-2252-4c2e-9a64-82ea8640a862"
+    },
+    {
+      "Rollno": "04",
+      "Name": "",
+      "branch": "",
+      "Email": "REDDY@2132",
+      "phone": "",
+      "collegeName": "",
+      "id": "GEWKSHzj4O8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
